@@ -4,7 +4,7 @@
 A Electronics Engineer and Passionate about Data Science:bar_chart:.
 
 - 🔭 I’m currently working on:
-	-  Getting my Bachelor in Electronics & Communication Engineering from Jamia Hamdard University, New Delhi.
+	-  Getting my Bachelor in Electronics & Communication Engineering from **Jamia Hamdard University,** New Delhi.
 	-  Deep learning Project
 
 - :bulb: I'm interested in all things data:
