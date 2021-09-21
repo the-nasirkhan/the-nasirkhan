@@ -34,3 +34,11 @@ A Electronics Engineer and Passionate about Data Science:bar_chart:.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-nasirkhan&show_icons=true&locale=en" alt="the-nasirkhan" /></p>
 
 </p>
+
+
+<!-- **What I Do In Spare Time**
+
+ <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
+| :---: |
+| <b>Anime</b> | -->
+
