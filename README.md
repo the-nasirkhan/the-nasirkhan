@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Nasir Khan,
+<h1 align="left">Hi 👋, I'm Nasir Khan</h1>
 
 A Electronics Engineer and Passionate about Data Science:bar_chart:.
 
