@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-nasirkhan" alt="the-nasirkhan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/twitter.com/imrealnasirkhan" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/imrealnasirkhan?logo=twitter&style=for-the-badge" alt="twitter.com/imrealnasirkhan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imrealnasirkhan" target="blank"><img src="https://img.shields.io/twitter/follow/imrealnasirkhan?logo=twitter&style=for-the-badge" alt="imrealnasirkhan" /></a> </p>
 
 - 🌱 I’m currently learning **Data Engineering**
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/twitter.com/imrealnasirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/imrealnasirkhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/thenasirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thenasirkhan" height="30" width="40" /></a>
-<a href="https://kaggle.com/www.kaggle.com/therealnasirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="www.kaggle.com/therealnasirkhan" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/therealnasirkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/therealnasirkhan/" height="30" width="40" /></a>
+<a href="https://twitter.com/imrealnasirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrealnasirkhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thenasirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thenasirkhan" height="30" width="40" /></a>
+<a href="https://kaggle.com/therealnasirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="therealnasirkhan" height="30" width="40" /></a>
+<a href="https://instagram.com/therealnasirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therealnasirkhan" height="30" width="40" /></a>
 <a href="https://medium.com/@therealnasirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@therealnasirkhan" height="30" width="40" /></a>
 </p>
 
