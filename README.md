@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-nasirkhan&label=Profile%20views&color=0e75b6&style=flat" alt="the-nasirkhan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imrealnasirkhan" target="blank"><img src="https://img.shields.io/twitter/follow/imrealnasirkhan?logo=twitter&style=for-the-badge" alt="imrealnasirkhan" /></a> </p>
-
 - 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **therealnasirkhan@gmail.com**
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-nasirkhan&show_icons=true&locale=en&layout=compact" alt="the-nasirkhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-nasirkhan&show_icons=true&locale=en" alt="the-nasirkhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-nasirkhan&" alt="the-nasirkhan" /></p>
