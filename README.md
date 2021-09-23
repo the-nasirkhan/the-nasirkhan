@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi 👋, I'm Nasir Khan</h1>
 
-An Electronics Engineer and Passionate about Data Science:bar_chart:.
+An Electronics Engineer and Data Science Enthusiastic:bar_chart:.
 
 - 🔭 I’m currently working on:
 	-  Getting my Bachelor in Electronics & Communication Engineering from **Jamia Hamdard University,** New Delhi.
