@@ -10,7 +10,7 @@ An Electronics Engineer and Data Science Enthusiastic:bar_chart:.
 	-  Machine Learning Projects
 
 - :bulb: I'm interested in all things data:
-  - **Big Data, Cloud, Machine Learning and Data Science**
+  - **Big Data, Cloud, Artificial Intelligence, Deep Learning, Machine Learning and Data Science**
 
 
 ### My Skills Include
